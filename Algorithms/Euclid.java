@@ -44,7 +44,7 @@ public class Euclid {
             gcd = m;
             System.out.print("Greatest common divisor: " + gcd);
             System.out.println("\n");
-            System.out.println("You can put in two new inputs or type exit");
+            System.out.println("You can put in two new inputs or type exit to stop the program.");
         }
       }
     }
